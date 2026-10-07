@@ -1,0 +1,6 @@
+MBRCHECK
+MBR.BIN
+MBR_BIG.BIN
+NAO_MBR.BIN
+.zig-cache/
+zig-out/
